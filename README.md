@@ -1,8 +1,4 @@
 raru🍊
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=raruData&show_icons=true&count_private=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raruData&layout=compact&theme=dracula" />
-</a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=raruData&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raruData&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
